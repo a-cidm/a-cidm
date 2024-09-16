@@ -40,3 +40,8 @@ Este proyecto está licenciado bajo los términos de la licencia MIT. ¡Siéntet
 ---
 
 Gracias por visitar mi repositorio ✨. Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en contactarme 🤝.
+---
+
+Para los propositos de este desafio, se ha realizado un commit a cada uno de los siguentes proyectos:
+[Dario-Gago.github.io](https://github.com/a-cidm/Dario-Gago.github.io/commit/4f105e9210330229680c1850de20fc7dbfcbccf7)
+[ocibanez12.github.io](https://github.com/a-cidm/ocibanez12.github.io/commit/2bdfa914ba5e1d28d1dcadc177d8ba06abf340c0)
